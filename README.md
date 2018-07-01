@@ -21,7 +21,7 @@
 
 <h3> Demo </h3>
 
-<a href="#">####  </a>
+<a href="https://vladocar.github.io/Simple-Button/">Demo - Simple CSS Button</a>
 
 
 <h3> The HTML code looks like this: </h3>
