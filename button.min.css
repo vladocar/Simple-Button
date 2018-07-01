@@ -1,0 +1,1 @@
+.button{display:block;float:left;margin:0 6px;padding:.7em;cursor:pointer;text-align:center;transition-duration:.1s;transition-timing-function:linear}.button:focus,.button:hover{opacity:.8}.btcolor{background-color:red;color:#fff}.btcolor:focus,.btcolor:hover{background:#e6e6e6;color:#222}.round{border-radius:.6em}.pill{border-radius:1.1em/50%}.border{border:1px solid #1577ca}

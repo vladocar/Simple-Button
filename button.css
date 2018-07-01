@@ -1,0 +1,34 @@
+.button {
+    font-size: 1em;
+    display: block;
+    float: left;
+    border: 0;
+    margin: 0 6px;
+    padding: 0.7em;
+    cursor: pointer;
+    text-align: center;
+    transition-duration: 0.1s;
+    transition-timing-function: linear;
+}
+.button:hover,
+.button:focus {
+    opacity: 0.8;
+}
+.btcolor {
+    background-color: red;
+    color: #fff;
+}
+.btcolor:hover,
+.btcolor:focus {
+    background: #ff6666;
+    color: #f0f0f0;
+}
+.round {
+    border-radius: 0.6em;
+}
+.pill {
+    border-radius: 1.1em / 50%;
+}
+.border {
+    border: 1px solid #1577ca;
+}
